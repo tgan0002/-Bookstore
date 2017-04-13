@@ -1,5 +1,4 @@
 # -Bookstore
-//bull
 var listOfAllKnownAuthors = []
 
 class BookStore
@@ -194,3 +193,5 @@ flourishAndBlotts.addBook(monsterBookToSell, 30);
 flourishAndBlotts.sellBook(monsterBookToSell, 750);
 
 console.log("Authors known: " + listOfAllKnownAuthors);
+
+//Trishia Gan Yi Ling
